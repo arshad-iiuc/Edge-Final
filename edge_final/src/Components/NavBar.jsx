@@ -40,4 +40,4 @@ const Sidebar = () => {
   );
 };
 
-export default NavBar;
+export default Sidebar;
